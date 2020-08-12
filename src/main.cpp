@@ -7,8 +7,6 @@ String cmd = "";
 unsigned long previousMillis = 0;
 
 
-
-
 void setup() {
   INIT_DEBUG;
   DBGLN("Serial begin...");
